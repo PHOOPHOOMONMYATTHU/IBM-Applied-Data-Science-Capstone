@@ -14,7 +14,7 @@ Create the prediction model whether the Falcon 9 first stage will land successfu
 ◆ Interactive Visual Analysis using Folium and Dashboard using Plotly Dash</br>
 ◆ Predictive Analysis(Classification)</br>
 
-#### Data Collection
+#### [Data Collection](https://github.com/PHOOPHOOMONMYATTHU/Predicting-Falcon-9-First-Stage-Launching-for-Cost-Efficient-Lunches-and-Competitive-Bidding/tree/5493a3e85cd04e2e4d2bf8045dcbaeda79a34570/01%20Data%20Collection)
 ◆ Collect the data by using the <b>request.get()</b> function from the correct API.</br>
 ◆ Collect the data by webscrapiing using the <b>BeautifulSoup</b>
 
