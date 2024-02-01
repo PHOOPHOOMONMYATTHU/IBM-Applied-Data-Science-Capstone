@@ -1,4 +1,4 @@
-## IBM Applied Data Science Capstone Project <img src="https://github.com/PHOOPHOOMONMYATTHU/IBM-Applied-Data-Science-Capstone/blob/main/applied-data-science-capstone.1%20(1).png" alt="applied Data Science Capsotne Badge" align="right" width="300"/>
+## IBM Applied Data Science Capstone Project <img src="https://github.com/PHOOPHOOMONMYATTHU/IBM-Applied-Data-Science-Capstone/blob/main/applied-data-science-capstone.1%20(1).png" alt="Applied Data Science Capsotne Badge" align="right" width="300"/>
 [<H3> Predicting Falcon 9 First Stage Launching for Cost-Efficient Lunches and Competitive Bidding </H3>](https://www.coursera.org/professional-certificates/ibm-data-science?)
 <H4>IBM Data Science Professional Certificate
 
